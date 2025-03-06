@@ -1,5 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
+  Forked by Patrick Bode for his private repo on 3-6-2025
   This template creates an APIGateway that is SCIM compliant to interface with SCIM AD
   sync for Amazon Connect auto provisioning of agents. The output is the API
   tenant URL to use in SCIM configuration. Creates API GW and Lambda function.
